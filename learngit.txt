@@ -7,8 +7,5 @@ add line3
 
 Creating a new branch is quick master3.
 
-<<<<<<< HEAD
-=======
-Creating a new branch is quick dev3.
->>>>>>> dev
+issue-101 修改
 
