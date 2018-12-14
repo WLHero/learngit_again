@@ -7,6 +7,12 @@ add line3
 
 Creating a new branch is quick master3.
 
+checktout
+
+第一次
+ 再来一次
+
 issue-101 修改2
 
 
+xxxxxxxxxxxx
